@@ -1,0 +1,1 @@
+SetDirectory "your path goes here:ISO-8859-1"Rez UniC.r ISOcodes.r -a -o "Resources" -t 'rsrc' -c 'RSED'
