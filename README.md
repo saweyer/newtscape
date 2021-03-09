@@ -1,7 +1,7 @@
 # newtscape
 Newt's Cape 2.1 release (2001), plugins, documentation and examples:<br/>
 https://communicrossings.com/html/newton/newtscape.htm<br/>
-https://communicrossings.com/html/newton/regnewtscape.htm
+https://communicrossings.com/html/newton/regnewtscape.htm [zip pw: turkeylurky]
 
 plugins:<br/>
 NewtPack saves Newton books as Newton packages (see NewtDevEnv project)<br/>
